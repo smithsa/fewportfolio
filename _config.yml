@@ -11,9 +11,9 @@ email: feliciaewhaley@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
    Detail-oriented illustrator/designer with 5 years of experience as a creative based in Chicago. 
    Focused on building professional relationships alongside a creative and problem-solving team.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/fewportfolio" # the subpath of your site, e.g. /blog
 
-url: "https://smithsa.github.io/fewportfolio" # the base hostname & protocol for your site
+url: "https://smithsa.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
