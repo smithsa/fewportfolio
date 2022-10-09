@@ -1,0 +1,164 @@
+Searching 829 files for "#menu-toggler"
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/_site/css/responsive.css:
+   15      top: 70px; }
+   16  
+   17:   #menu-toggler {
+   18      display: none; }
+   19  
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/_site/css/style.css:
+  337    color: #fff; }
+  338  
+  339: #menu-toggler {
+  340    padding-right: 40px;
+  341    margin-top: -60px;
+  342    position: relative; }
+  343:   #menu-toggler i {
+  344      background: #333;
+  345      color: #fff;
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/_site/js/app.js:
+   26    }
+   27  
+   28:   $('#menu-toggler').on('click', function() {
+   29      $('.top-bar-section').toggle();
+   30      return false;
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/_site/scss/responsive.scss:
+   20    }
+   21  
+   22:   #menu-toggler {
+   23      display: none;
+   24    }
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/_site/scss/style.scss:
+  380  }
+  381  
+  382: #menu-toggler {
+  383    padding-right: 40px;
+  384    margin-top: -60px;
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/css/responsive.css:
+   15      top: 70px; }
+   16  
+   17:   #menu-toggler {
+   18      display: none; }
+   19  
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/css/style.css:
+  337    color: #fff; }
+  338  
+  339: #menu-toggler {
+  340    padding-right: 40px;
+  341    margin-top: -60px;
+  342    position: relative; }
+  343:   #menu-toggler i {
+  344      background: #333;
+  345      color: #fff;
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/js/app.js:
+   26    }
+   27  
+   28:   $('#menu-toggler').on('click', function() {
+   29      $('.top-bar-section').toggle();
+   30      return false;
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/scss/responsive.scss:
+   20    }
+   21  
+   22:   #menu-toggler {
+   23      display: none;
+   24    }
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/scss/style.scss:
+  380  }
+  381  
+  382: #menu-toggler {
+  383    padding-right: 40px;
+  384    margin-top: -60px;
+
+12 matches across 10 files
+
+
+Searching 829 files for "#menu-toggler"
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/_site/css/responsive.css:
+   15      top: 70px; }
+   16  
+   17:   #menu-toggler {
+   18      display: none; }
+   19  
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/_site/css/style.css:
+  337    color: #fff; }
+  338  
+  339: #menu-toggler {
+  340    padding-right: 20px;
+  341    margin-top: -60px;
+  342    position: relative; }
+  343:   #menu-toggler i {
+  344      background: #333;
+  345      color: #fff;
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/_site/js/app.js:
+   26    }
+   27  
+   28:   $('#menu-toggler').on('click', function() {
+   29      $('.top-bar-section').toggle();
+   30      return false;
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/_site/scss/responsive.scss:
+   20    }
+   21  
+   22:   #menu-toggler {
+   23      display: none;
+   24    }
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/_site/scss/style.scss:
+  380  }
+  381  
+  382: #menu-toggler {
+  383    padding-right: 40px;
+  384    margin-top: -60px;
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/css/responsive.css:
+   15      top: 70px; }
+   16  
+   17:   #menu-toggler {
+   18      display: none; }
+   19  
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/css/style.css:
+  337    color: #fff; }
+  338  
+  339: #menu-toggler {
+  340    padding-right: 40px;
+  341    margin-top: -60px;
+  342    position: relative; }
+  343:   #menu-toggler i {
+  344      background: #333;
+  345      color: #fff;
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/js/app.js:
+   26    }
+   27  
+   28:   $('#menu-toggler').on('click', function() {
+   29      $('.top-bar-section').toggle();
+   30      return false;
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/scss/responsive.scss:
+   20    }
+   21  
+   22:   #menu-toggler {
+   23      display: none;
+   24    }
+
+/Users/sadesmith/Desktop/feliciawhaley-jekyll/scss/style.scss:
+  380  }
+  381  
+  382: #menu-toggler {
+  383    padding-right: 40px;
+  384    margin-top: -60px;
+
+12 matches across 10 files

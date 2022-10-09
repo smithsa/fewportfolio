@@ -65,11 +65,11 @@ jQuery(document).ready(function($) {
     //   }, 300);
     // });
     $('.slides').slick({
-      autoplay: true,
-      pauseOnHover: false,
+      autoplay: false,
+      pauseOnHover: true,
       dots: true,
       speed: 1000,
-      arrows: false
+      arrows: true
     });
   }
 
