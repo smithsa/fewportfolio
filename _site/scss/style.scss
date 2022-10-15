@@ -620,13 +620,6 @@ ul.socials {
   }
 }
 
-.work:hover img {
-  @include transform(scale(1.05));
-}
-
-.work:hover .info {
-  @include transform(translateY(-30px));
-}
 
 .work.alt {
   display: block;
