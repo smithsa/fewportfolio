@@ -16,7 +16,12 @@
     </div>
     <section class='top-bar-section closed'>
       <ul class='right'>
-
+        <li>
+          <a href="{{site.url}}/index.html">Home</a>
+        </li>
+        <li>
+          <a target="_blank" href="https://feliciawhaley.com">Illustrations</a>
+        </li>
         {% for item in site.data.nav %}
           {% if item.section_id == page.section_id %}
             {% assign active_class = "active" %}
@@ -30,7 +35,7 @@
               <ul class='dropdown'>
                 {% for child in item.children %}
                   <li>
-                    <a href="{{site.url}}/{{ child.path }}">{{ child.name }}</a>
+                      <a href="{{site.url}}/{{ child.path }}">{{ child.name }}</a>
                   </li>
                 {% endfor %}
               </ul>
