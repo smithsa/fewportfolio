@@ -4,6 +4,10 @@ jQuery(document).ready(function($) {
 
   $(document).foundation();
 
+  $("img").each(function(){
+      $(this).attr('oncontextmenu', 'return false;')
+  })
+
 
   if($('form#contact_form').length > 0) {
     $('form#contact_form').validate({
@@ -40,6 +44,9 @@ jQuery(document).ready(function($) {
 
     $('#slides').superslides({
       animation: 'fade',
+      autoplay: true,
+      pauseOnHover: true,
+      arrows: true,
       hashchange: false,
       play: 5000
     });
