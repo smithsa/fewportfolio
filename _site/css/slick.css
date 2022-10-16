@@ -68,3 +68,28 @@
     display: block;
     height: auto;
     border: 1px solid transparent; }
+
+
+.slick-prev {
+  left: -7px;
+}
+
+.slick-prev:before {
+  font-family: 'FontAwesome';
+  content: "\f137";
+    left: -0px;
+    color: black;
+    font-size: 25px;
+}
+
+.slick-next {
+    right: -7px;
+}
+
+.slick-next:before {
+  font-family: 'FontAwesome';
+  content: "\f138";
+    left: -0px;
+    color: black;
+    font-size: 25px;
+}

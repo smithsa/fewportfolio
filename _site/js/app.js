@@ -43,9 +43,7 @@ jQuery(document).ready(function($) {
     });
 
     $('#slides').superslides({
-      animation: 'fade',
-      autoplay: true,
-      pauseOnHover: true,
+      animation: 'slide',
       arrows: true,
       hashchange: false,
       play: 5000

@@ -322,7 +322,7 @@ body {
 /* Navigation */
 .title-area h1 {
   line-height: 1;
-  padding-left: 15px; }
+  padding-left: 20px; }
   .title-area h1 a {
     color: #333;
     font-size: 18px;
@@ -337,7 +337,7 @@ body {
   color: #fff; }
 
 #menu-toggler {
-  padding-right: 40px;
+  padding-right: 20px;
   margin-top: -60px;
   position: relative; }
   #menu-toggler i {
